@@ -126,4 +126,4 @@ async def on_ready():
     await check_current_voice_channels()
     print(f'Бот запущен как {bot.user}')
 # Запуск бота
-bot.run('YOUR  TOKEN')
+bot.run('MTI5NjUxNDg0MzExMjYzNjQ1Nw.G-Opo6.88kbB3nmEY1hI3auNZW2COWlJuYv56oH4kV5P8')
